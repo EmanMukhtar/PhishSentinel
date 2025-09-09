@@ -1,5 +1,4 @@
-# PhishSentinel
-A Real Time URL Security Detection tool usinf AI and Machine Learning models.
+
 <h1 align="center"> PHISH SENTINEL </h1>
 
 ### A Cybersecurity utility for detecting malicious phishing URLs using Machine Learning.
