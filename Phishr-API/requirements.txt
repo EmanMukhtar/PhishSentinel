@@ -1,0 +1,20 @@
+regex
+urllib3==1.26.6
+uvicorn
+fastapi
+requests
+pydantic
+gunicorn
+uvloop
+httptools
+numpy
+# pickle5
+python-whois
+beautifulsoup4
+pyopenssl
+json2html
+tqdm
+python-Levenshtein
+ail-typo-squatting
+lightgbm
+firebase-admin==6.1.0

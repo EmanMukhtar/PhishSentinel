@@ -1,0 +1,27 @@
+/* src/components/IntroVideo.css */
+.intro-video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 1s ease-out;
+    opacity: 1;
+  }
+  
+  .intro-video-container.fade-out {
+    opacity: 0;
+    pointer-events: none;
+  }
+  
+  .intro-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
