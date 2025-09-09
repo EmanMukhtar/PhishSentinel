@@ -1,4 +1,4 @@
-<h1 align="center"> PHISHr 🎣🕵️ </h1>
+<h1 align="center"> PHISH SENTINEL </h1>
 
 ### A Cybersecurity utility for detecting malicious phishing URLs using Machine Learning.
  - 🔒 <b> URL Scanning </b>: Instantly analyze URLs for potential threats and stay one step ahead of phishing attacks.
@@ -9,7 +9,7 @@
 <img src="/src/assets/phishr-demo3.gif" width="80%"/>
 </div>
 
-## How does it work? 🤷‍♂️
+## How does it work? 
 
 This web app takes a URL as an input and detects potentially malicious URLs by performing thorough checks such as blacklist verification, SSL certificate presence, HTTPS usage, and AI prediction. It provides a score and flags for various checks conducted.  The detection process involves several steps:
  - It checks if the URL is present in the top 1 million valid sites database.
